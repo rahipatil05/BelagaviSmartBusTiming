@@ -1,0 +1,5 @@
+{
+  "name": "Belagavi Smart Bus Timings",
+  "description": "An intelligent web application to find real-time bus schedules for Belgaum city. Users can easily search for routes from the Central Bus Terminal (CBT) to various destinations, view upcoming and past departures, and see the full-day schedule to plan their travel effectively.",
+  "requestFramePermissions": []
+}
